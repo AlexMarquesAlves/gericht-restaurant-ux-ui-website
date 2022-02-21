@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
-import './AboutUs.css';
+import "./AboutUs.scss";
 
-const AboutUs = () => (
-  <div>
-    AboutUs
-  </div>
-);
+const AboutUs = () => <div>AboutUs</div>;
 
 export default AboutUs;

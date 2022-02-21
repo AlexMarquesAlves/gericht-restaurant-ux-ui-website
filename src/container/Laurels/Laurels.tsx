@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
-import './Laurels.css';
+import "./Laurels.scss";
 
-const Laurels = () => (
-  <div>
-    Laurels
-  </div>
-);
+const Laurels = () => <div>Laurels</div>;
 
 export default Laurels;
